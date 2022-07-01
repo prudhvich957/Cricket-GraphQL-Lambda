@@ -5,14 +5,14 @@ Finally, the serverless framework is used to direcltly deploy to AWS Lambda
 
 
 The aritecture is simple and distinct:
-src/config - Database Connection and setup
-src/model - Mongoose Model
-src/schema - All GraphQL Code
-src/server.js - Express App Code
+src/config - Database Connection and setup '\n'
+src/model - Mongoose Model '\n'
+src/schema - All GraphQL Code '\n'
+src/server.js - Express App Code '\n'
 
 # Available Routes
 
-"/" - A simple JSON response containing all the data for reference
+"/" - A simple JSON response containing all the data for reference '\n'
 "/graphql" - The graphQl editor to run all the available GraphQL API.
 
 ## Usage
