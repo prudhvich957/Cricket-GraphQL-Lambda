@@ -19,7 +19,9 @@ The aritecture is simple and distinct:
 
 ### Deployment
 
-Install dependencies with:
+
+
+Deployment is also simple and straightforward. Install dependencies with:
 
 ```
 npm install
