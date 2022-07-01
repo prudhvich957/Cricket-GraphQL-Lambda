@@ -13,7 +13,7 @@ The aritecture is simple and distinct:
 # Available Routes
 
  - "/" - A simple JSON response containing all the data for reference
- - "/graphql" - The graphQl editor to run all the available GraphQL API.
+ - "/graphql" - The graphQl editor to run all the available GraphQL API (as mentioned in the given docs).
 
 ## Usage
 
@@ -24,6 +24,7 @@ Install dependencies with:
 ```
 npm install
 ```
+Prerequistes: AWS CLI must be installed and configured with right IAM role for following command to work
 
 and then deploy with:
 
